@@ -25,5 +25,4 @@ ModuleNotFoundError: No module named 'pyfiglet'
 
 _______________Thank For Using My Tool...njoy The Tool_________________
 
->>>>>>>>>>>> Ask if you have any questions contact DISCODE + NAME  [ laka0124 ] <<<<<<<<<<<<<<<<
 --- From SRI LANKA ---
